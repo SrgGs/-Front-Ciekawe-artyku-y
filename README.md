@@ -14,7 +14,7 @@ https://github.com/valueadd-poland/angular-job-interview-questions-to-ask-compan
 https://www.youtube.com/channel/UCb2Y3vMeD6N4WDt5Acw7Arw
 https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g
 
-#Cheatsheet
+# Cheatsheet
 https://github.com/delprzemo/angular-cheatsheet
 https://github.com/delprzemo/typescript-cheatsheet
 https://github.com/delprzemo/react-cheatsheet
