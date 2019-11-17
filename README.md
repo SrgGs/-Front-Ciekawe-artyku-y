@@ -16,5 +16,7 @@ https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g
 
 # Cheatsheet
 https://github.com/delprzemo/angular-cheatsheet
+
 https://github.com/delprzemo/typescript-cheatsheet
+
 https://github.com/delprzemo/react-cheatsheet
